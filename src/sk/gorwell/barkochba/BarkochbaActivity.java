@@ -18,7 +18,7 @@ import android.widget.Toast;
 public class BarkochbaActivity extends Activity {
 
 	private int num = 0; 
-	
+	// git test git test
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
